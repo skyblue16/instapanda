@@ -1,0 +1,52 @@
+.logo {
+    width: 200px;
+    height: 65px !important;
+}
+.logo-panda {
+    margin-left: 40%;
+}
+#div2 {
+    float: top;
+    width: 600px;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 150px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+#div1 {
+    float: top;
+    height: 300px;
+    width: 652px;
+    padding: 25px;
+    margin-left: 120px;
+    border: 1px solid black;
+}
+input {
+    width: 60px;
+}
+
+/*.img-panda {
+    width: 200px;
+    height: 200px;
+}*/
+.resize-drag {
+  background-color: #29e;
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 30px 20px;
+
+  width: 320px;
+
+  /* This makes things *much* easier */
+  box-sizing: border-box;
+}
+
+.resize-container {
+  display: inline-block;
+  width: 700px;
+  height: 340px;
+}
